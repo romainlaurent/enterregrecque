@@ -1,0 +1,29 @@
+.header--default.header--sticky {
+    background-color: #010101;
+}
+
+.header--default.header--sticky .header__center .menu > li > a {
+    color: #fff;
+}
+
+.header--home-4.white .menu > li > a {
+    color: #000;
+}
+
+.header--home-4.white .header__left .ps-list--social li a {
+    color: #555;
+}
+
+.ps-section.ps-home-wellcome.bg--top {
+    background-color: #010101;
+}
+
+.ps-section.ps-home-wellcome * {
+    color: #ce873a;
+}
+
+.ps-block--iconbox img {
+    width:  400px;
+    height: 250px;
+    object-fit: cover;
+}
