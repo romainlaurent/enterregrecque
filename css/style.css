@@ -8474,7 +8474,7 @@ textarea.form-control {
       display: inline-block;
       padding: 20px 25px;
       font-size: 15px;
-      font-weight: 600;
+      font-weight: bolder;
       line-height: 20px;
       text-transform: uppercase;
       color: #000; }

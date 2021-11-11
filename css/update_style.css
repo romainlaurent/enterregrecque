@@ -18,6 +18,10 @@ html {
     color: #555;
 }
 
+.ps-home-banner.bg--cover {
+    background-position: 50% 0% !important;
+}
+
 .ps-section.ps-home-wellcome.bg--top {
     background-color: #010101;
 }
