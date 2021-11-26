@@ -15,7 +15,11 @@ html {
 }
 
 .header--home-4.white .header__left .ps-list--social li a {
-    color: #555;
+    color: #000;
+}
+
+.header--home-4.header--sticky.white .header__left .ps-list--social li a {
+    color: #fff;
 }
 
 .ps-home-banner.bg--cover {
@@ -23,7 +27,7 @@ html {
 }
 
 .ps-section.ps-home-wellcome.bg--top {
-    background-color: #010101;
+    background-color: #21202d;
 }
 
 .ps-section.ps-home-wellcome * {
@@ -34,4 +38,8 @@ html {
     width:  400px;
     height: 250px;
     object-fit: cover;
+}
+
+#history img {
+    border-radius: 10px;
 }
