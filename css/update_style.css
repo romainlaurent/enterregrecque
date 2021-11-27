@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
 }
 
+.ps-section__header p {
+    font-size: 2.5em;
+}
+
 .header--default.header--sticky {
     background-color: #010101;
 }
