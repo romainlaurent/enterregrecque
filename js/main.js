@@ -919,7 +919,7 @@
         productLightbox();
         rating();
         backToTop();
-        stickyHeader();
+        //stickyHeader();
         filterSlider();
         mapConfig();
         modalInit();
