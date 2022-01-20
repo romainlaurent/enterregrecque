@@ -47,3 +47,7 @@ html {
 #history img {
     border-radius: 10px;
 }
+
+fa-viber::before {
+    content: "\f409";
+}
