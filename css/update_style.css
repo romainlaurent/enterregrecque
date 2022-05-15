@@ -51,3 +51,7 @@ html {
 fa-viber::before {
     content: "\f409";
 }
+
+.header__center {
+    min-width: 80%;
+}
